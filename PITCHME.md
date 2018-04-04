@@ -1,6 +1,5 @@
 # Testes para gerentes
 
-* Raphael Lacerda
 ---
 
 # Academia

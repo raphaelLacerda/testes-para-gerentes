@@ -1,12 +1,14 @@
-# Testes
+# Testes para gerentes
 
 * Raphael Lacerda
 ---
 
 # Histórico
 
-
 ---
+
+<img src="sommer.jpg" alt="">
+<img src="pressman.gif" alt="">
 
 # Indústria
 
